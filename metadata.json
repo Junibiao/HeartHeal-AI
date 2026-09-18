@@ -1,0 +1,6 @@
+{
+  "name": "HeartHeal AI",
+  "description": "HeartHeal AI - พื้นที่ปลอดภัยสำหรับพักใจ โอบอุ้มด้วยความเข้าใจและสติ Companion ดูแลจิตใจพร้อมเครื่องมือ Box Breathing, 5-4-3-2-1 Grounding และ Crisis Guardrail",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
